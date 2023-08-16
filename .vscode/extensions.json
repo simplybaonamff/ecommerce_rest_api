@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "redhat.vscode-community-server-connector",
+        "shan.code-settings-sync"
+    ]
+}
